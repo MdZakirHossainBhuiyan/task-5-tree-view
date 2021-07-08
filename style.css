@@ -1,0 +1,54 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.main-header{
+    text-align: center;
+}
+
+.alignment-style{
+    margin-left: 450px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.hyphen-highlighter{
+    background-color: gray;
+}
+
+.as-type-two{
+    margin-left: 50px;
+}
+
+.as-type-three{
+    margin-left: 100px;
+}
+
+.as-type-four{
+    margin-left: 150px;
+}
+
+.as-type-five{
+    margin-left: 200px;
+}
+
+.as-type-six{
+    margin-left: 250px;
+}
+
+#list-level-two-f, #list-level-two-s, #list-level-two-t{
+    display: none;
+}
+
+#list-level-three, #list-level-four-1, #list-level-four-2, #list-level-four-3{
+    display: none;
+}
+
+#list-level-five-1, #list-level-five-2, #list-level-five-3, #list-level-five-4, #list-level-five-5, #list-level-five-6, #list-level-five-7, #list-level-five-8, #list-level-five-9, #list-level-five-10, #list-level-five-11, #list-level-five-12, #list-level-five-13, #list-level-five-14, #list-level-five-15{
+    display: none;
+}
+
+#list-level-six-1, #list-level-six-2, #list-level-six-3, #list-level-six-4, #list-level-six-5, #list-level-six-6, #list-level-six-7{
+    display: none;
+}
